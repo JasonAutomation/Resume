@@ -3,7 +3,7 @@
 Kirkcaldy.jason@gmail.com · [https://www.linkedin.com/in/jasonkirkcaldy/](https://www.linkedin.com/in/jasonkirkcaldy/)
 
 
-SKILLS
+### SKILLS ###
 
 * Version Control Tools: GIT
 * CI Tools: Jenkins, Travis CI
@@ -16,11 +16,13 @@ SKILLS
 * Ticketing systems: JIRA, ServiceNOW
 SDLC: Agile, Scrum, Waterfall
 
-CERTIFICATIONS
+### CERTIFICATIONS ###
                                                
-AWS Cloud Practitioner     Microsoft Azure AZ-900 
+* AWS Cloud Practitioner   
+* Microsoft Azure AZ-900 
 
-EXPERIENCE
+### EXPERIENCE ###
+
 NOV 2020 – CURRENT
 CLOUD DEVOPS ENGINEER, PER SCHOLAS-BOSTON
 Learned and further refined in-demand technical skills relating to Cloud and DevOps practices. Gained critical knowledge on how to deploy and maintain a CI/CD pipeline. 
