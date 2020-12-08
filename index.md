@@ -30,7 +30,7 @@ SDLC: Agile, Scrum, Waterfall
 ### EXPERIENCE ###
 
 NOV 2020 – CURRENT
-CLOUD DEVOPS ENGINEER, PER SCHOLAS-BOSTON
+###CLOUD DEVOPS ENGINEER, PER SCHOLAS-BOSTON###
 Learned and further refined in-demand technical skills relating to Cloud and DevOps practices. Gained critical knowledge on how to deploy and maintain a CI/CD pipeline. 
 
 
