@@ -1,6 +1,12 @@
 # JASON KIRKCALDY #
-## Newton, MA · 781-443-2831 ##
-Kirkcaldy.jason@gmail.com · [https://www.linkedin.com/in/jasonkirkcaldy/](https://www.linkedin.com/in/jasonkirkcaldy/)
+
+----------
+
+
+- Newton, MA
+- 781-443-2831
+- Kirkcaldy.jason@gmail.com
+- [https://www.linkedin.com/in/jasonkirkcaldy/](https://www.linkedin.com/in/jasonkirkcaldy/)
 
 
 ### SKILLS ###
